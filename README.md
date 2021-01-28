@@ -1,6 +1,6 @@
-# Clone do Zoom - JSExpert 25/01-29/01/2021
+# Clone do Zoom - JSExpert2 25/01-29/01/2021
 
-Sistema criado na #SemanaJSExpert.
+Sistema criado na #SemanaJSExpert2.
 
 Durante a semana foi apresentado técnicas de JavaScript avançadas, com foco total em criar a base para um clone do Zoom.
 
