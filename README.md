@@ -1,6 +1,7 @@
 # Clone do Zoom - JSExpert2 25/01-29/01/2021
-
 Sistema criado na #SemanaJSExpert2.
+
+![alt text](https://github.com/GabrielPortugal/ZoomCloneJSExpert-GabrielPortugal/blob/master/imgCloneZoomPronto.png)
 
 Durante a semana foi apresentado técnicas de JavaScript avançadas, com foco total em criar a base para um clone do Zoom.
 
