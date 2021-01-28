@@ -2,7 +2,7 @@
 
 Sistema criado na #SemanaJSExpert.
 
-Em aula com o Erick Wendel foi apresentado técnicas de JavaScript avançadas, com foco total em criar a base para um clone do Zoom.
+Durante a semana foi apresentado técnicas de JavaScript avançadas, com foco total em criar a base para um clone do Zoom.
 
 ## 🚀 Linguagem utilizada
 JavaScript
