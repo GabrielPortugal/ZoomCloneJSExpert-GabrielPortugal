@@ -1,35 +1,45 @@
-# Controle Remoto p/ Robô Esteira
+# Clone do Zoom - JSExpert 25/01-29/01/2021
 
-Sistema de controle remoto para controlar um robô esteira.
+Sistema criado na #SemanaJSExpert.
 
-## 🤖 Modelo do robô esteira
-[EasyBotDS2](https://mauriciodgsantos.wixsite.com/easyds/easybotds)
+Em aula com o Erick Wendel foi apresentado técnicas de JavaScript avançadas, com foco total em criar a base para um clone do Zoom.
 
-## 🚀 Tecnologias
-[React Native](https://reactnative.dev/)
+## 🚀 Linguagem utilizada
+JavaScript
 
 ## 💻 Instalar e Rodar
+Projeto Peer
+```
+npm ci
+npm start
 
 ```
-npm install
-npx react-native run-android
+Projeto Server
+```
+npm ci
+npm start
+
+```
+Projeto Public
+```
+npm ci
+npm start
 
 ```
 
 ## ℹ️ Informações
-- O projeto está com nome de D6robo
-- Não requer levantar um servidor para testar o sistema
-- Caso queira testar com um servidor terá que fazer modificações no código
+- peer-server
+Servidor responsável pela comunicação P2P entre os computadores, ele que realizará a troca de vídeo e áudio entre as máquinas.
 
-- A tela inicial há o botão "ACORDAR" pelo motivo que o servidor fica hospedado na Heroku. Quando não está sendo utilizado ele entra no estado de "sleep" desta forma este botão acorda o servidor.
+- server
+Servidor WebSocket, responsável pela comunicação entre em tempo real do sistema
+
+- public
+O sistema em si, contêm toda a lógica do negócio e as telas
 
 ## 🎨 Artes e Layout
-Criação própria
-
-
-## 🖥️ Projetos complementares
-- [Servidor](https://github.com/GabrielPortugal/servidor-robo-esteira)
-- [Hardware](https://github.com/GabrielPortugal/nodemcu-robo-esteira)
+Estrutura base do projeto desenvolvido por
+[Erick Wendel](https://github.com/ErickWendel/jsexpert02-skeleton-ew)
 
 ### Criado por
 Gabriel Portugal, 12/2020
