@@ -43,7 +43,7 @@ Estrutura base do projeto desenvolvido por
 [Erick Wendel](https://github.com/ErickWendel/jsexpert02-skeleton-ew)
 
 ### Criado por
-Gabriel Portugal, 12/2020
+Gabriel Portugal, 01/2021
 
 ### Contato
 gabrielpguadelupe@gmail.com
